@@ -1,6 +1,6 @@
 # Zcash® and Zclassic - Node Open Mining Portal
 
-**[Click here for the official - Zcash® Zclassic, Bitcoin Gold Stratum Mining Pool Installation Guide](https://zdeveloper.org/wiki:z-nomp_install)**
+**[Click here for the official - Zcash® Zclassic, Bitcoin Candy Stratum Mining Pool Installation Guide](https://zdeveloper.org/wiki:z-nomp_install)**
 
 This is a Equihash mining pool based off of Node Open Mining Portal.
 
@@ -23,7 +23,7 @@ If your pool uses Z-NOMP let us know and we will list your website here.
 
 ### Some pools using Z-NOMP or node-stratum-module:
 
-http://pool.gold - Bitcoin Gold Pool
+http://pool.cdy.one - Bitcoin Candy Pool
 
 https://pool.cryptobroker.io/zcl Running MPOS and 0.5% of the fee goes to the Zclassic donation fund! 200+ blocks have been found as well! 
 
@@ -82,8 +82,8 @@ Clone the repository and run `npm update` for all the dependencies to be install
 sudo apt-get install build-essential libsodium-dev npm
 sudo npm install n -g
 sudo n stable
-git clone https://github.com/poolgold/z-nomp-bitcoin-gold.git z-nomp-bitcoin-gold
-cd z-nomp-bitcoin-gold
+git clone https://github.com/bitcoincandyteam/z-nomp-bitcoin-candy.git  z-nomp-bitcoin-candy
+cd z-nomp-bitcoin-candy
 npm update
 npm install
 ```
