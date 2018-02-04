@@ -1,0 +1,7 @@
+{
+    "name": "Bitcoin Candy",
+    "symbol": "CDY",
+    "algorithm": "equihash",
+    "txfee": 0.00005
+}
+

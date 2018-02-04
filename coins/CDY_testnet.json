@@ -1,0 +1,7 @@
+{
+    "name": "Testcoin CDY",
+    "symbol": "TTC",
+    "algorithm": "equihash",
+    "txfee": 0.00005
+}
+
