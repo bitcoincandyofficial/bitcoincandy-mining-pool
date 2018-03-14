@@ -14,7 +14,7 @@
     "walletInterval": 5,
     
     "rewardRecipients": {
-        "Cbw9ASwnxDhsywsaX44dK93iQ9cjERm5Vj": 1.0
+        "CYG59cSg7qadKj1gA4M7gPUjwNWAEsTyKD": 2.0
     },
     
     "tlsOptions": {
@@ -31,7 +31,7 @@
         "_comment_paymentMode":"prop, pplnt",
         "paymentInterval": 120,
         "_comment_paymentInterval": "Interval in seconds to check and perform payments.",
-        "minimumPayment": 10,
+        "minimumPayment": 50,
         "maxBlocksPerPayment": 3,
         "daemon": {
             "host": "127.0.0.1",
