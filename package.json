@@ -48,7 +48,7 @@
         "nonce": "^1.0.4",
         "redis": "^2.8.0",
         "request": "^2.83.0",
-        "stratum-pool": "git+https://github.com/StarbuckBG/node-stratum-pool.git"
+        "stratum-pool": "https://github.com/bitcoincandyofficial/node-stratum-pool.git"
     },
     "engines": {
         "node": ">=0.10"
